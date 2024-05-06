@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import variaveis from "../../store/styles/variaveis";
+import variaveis from "../../styles/variaveis";
 
 export const HeaderContainer = styled.header`
   display: flex;
